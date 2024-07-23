@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(159, 194, 194);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 150px;
+    gap: 5px;
+    
+
+}
+
+form, h1 {
+    display: flex;
+    justify-content: center;
+    
+}
+
+input {
+    padding: 5px;
+    width: 450px;
+}
+
+button {
+    padding: 5px;
+    
+    
+}
+button:hover {
+    background-color: rgb(253, 129, 98);
+    cursor: pointer;
+}
