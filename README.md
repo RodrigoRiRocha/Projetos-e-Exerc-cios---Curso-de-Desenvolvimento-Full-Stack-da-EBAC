@@ -1,8 +1,15 @@
-Exercício de HTML, CSS e JavaScript
-Neste exercício, desenvolvi uma página web utilizando HTML, CSS e JavaScript como parte do curso de Desenvolvimento Full Stack da EBAC. O objetivo foi aplicar e consolidar conhecimentos em criação, estilização e programação de páginas web.
+Descrição do Exercício
+Este exercício consiste em criar um formulário HTML com validação em JavaScript. O objetivo é praticar a criação de formulários e a implementação de validação de entrada.
 
-O que foi feito:
-Criação da Estrutura HTML: Estruturei a página utilizando elementos HTML básicos, como cabeçalhos, parágrafos, listas e links.
-Aplicação de Estilos com CSS: Desenvolvi um arquivo CSS para estilizar a página, aplicando estilos como cores, fontes e layout, garantindo uma apresentação visual atraente e funcional.
-Implementação de Funcionalidades com JavaScript: Adicionei funcionalidades interativas à página utilizando JavaScript. Isso incluiu a manipulação do DOM para responder a eventos do usuário e melhorar a experiência interativa da página.
-Este exercício desafiou minha capacidade de combinar HTML, CSS e JavaScript para criar uma página web não apenas esteticamente agradável, mas também funcional e interativa. Através deste projeto, pude aprimorar minhas habilidades práticas em desenvolvimento front-end.
+Requisitos do Exercício
+Formulário HTML:
+
+Crie um formulário com dois campos numéricos:
+Campo A: Identificado como Numero-A.
+Campo B: Identificado como Numero-B.
+Adicione um botão de envio para o formulário.
+Validação em JavaScript:
+
+O formulário deve ser validado para garantir que o valor de Campo B seja maior que o valor de Campo A.
+Se a validação for bem-sucedida, exiba uma mensagem positiva para o usuário.
+Caso contrário, exiba uma mensagem negativa.
